@@ -4,7 +4,7 @@ A simple HTML page that displays a shopping bill as a table, with the amount for
 
 ## Screenshot
 
-![Shopping Bill output](home.jpg)
+![Shopping Bill output](home.png)
 
 ## Features
 
@@ -46,7 +46,7 @@ A simple HTML page that displays a shopping bill as a table, with the amount for
 ```
 shopping-bill/
 ├── index.html
-├── home.jpg
+├── home.png
 └── README.md
 ```
 
